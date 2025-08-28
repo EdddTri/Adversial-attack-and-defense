@@ -33,7 +33,4 @@ Adversarial attacks are small, imperceptible perturbations to input data that ca
 - **Frameworks/Libraries**: TensorFlow / PyTorch, NumPy, Matplotlib  
 - **Techniques**: CNN, Adversarial Training, Data Augmentation  
 
----
-
-## 📂 Repository Structure  
 
